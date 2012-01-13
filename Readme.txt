@@ -15,8 +15,8 @@ The Timed Widget plugin allows you to create CodeBlocks, which are snippets of t
 
 == Installation ==
 
- * Download/upload plugin to wp-content/plugins directory
- * Activate Plugin within Admin Dashboard.
+* Download/upload plugin to wp-content/plugins directory
+* Activate Plugin within Admin Dashboard.
  
 == Frequently Asked Questions ==
 
