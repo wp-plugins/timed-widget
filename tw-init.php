@@ -6,10 +6,10 @@
  */
 /*
 Plugin Name: Timed Widget
-Plugin URI: http://grwl.unbc.ca/
+Plugin URI: http://code.library.unbc.ca/timed-widget
 Description: Displays timed content
 Author: Daniel Yule
-Version: 0.1
+Version: 1.0
 */
 
 require_once 'tw-widget.php';
