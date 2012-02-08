@@ -2,7 +2,7 @@
 Tags: widget, time, schedule, reference, roaming
 Requires at least: 3.3
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 A plugin for displaying different content on your site at different times of day.
 
@@ -27,6 +27,9 @@ Coming soon
 Coming soon
 
 == Changelog ==
+
+= 1.0.1 =
+Fixed bug where some users were not seeing the events they created on the calendar.
 
 = 1.0 =
 * First Version

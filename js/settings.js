@@ -752,9 +752,9 @@ function getCalendarData(start, end, callback) {
         // Don't bother to update the calendar if the request was un successful.
         if (response.success) {
             // Loop through all of the serverEvents in the response.
-            for (serverEventIdx in response.serverEvents) {
+            for (serverEventIdx in response.events) {
                 // Cache the current event
-                serverEvent = response.serverEvents[serverEventIdx];
+                serverEvent = response.events[serverEventIdx];
 
                 // Create a new calEvent. The structure of this object is
                 // determined by the calendar widget, with some extra fields

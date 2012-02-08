@@ -9,7 +9,7 @@ Plugin Name: Timed Widget
 Plugin URI: http://code.library.unbc.ca/timed-widget
 Description: Displays timed content
 Author: Daniel Yule
-Version: 1.0
+Version: 1.0.1
 */
 
 require_once 'tw-widget.php';
